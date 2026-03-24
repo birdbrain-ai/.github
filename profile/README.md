@@ -1,6 +1,6 @@
 
-<img src="https://github.com/birdbrain-ai/.github/blob/main/profile/logo-small.png#gh-dark-mode-only" width="200" height="200" align="left"></img>
-<img src="https://github.com/birdbrain-ai/.github/blob/main/profile/logo-small.png#gh-light-mode-only" width="200" height="200" align="left"></img>
+<img src="https://github.com/birdbrain-ai/.github/blob/main/profile/birdbrain-small.png#gh-dark-mode-only" width="200" height="200" align="left"></img>
+<img src="https://github.com/birdbrain-ai/.github/blob/main/profile/birdbrain-small.png#gh-light-mode-only" width="200" height="200" align="left"></img>
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
